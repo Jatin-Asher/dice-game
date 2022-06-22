@@ -1,3 +1,5 @@
+# made a dice game
+
 x = "y"
 while x=="y":
     import random
